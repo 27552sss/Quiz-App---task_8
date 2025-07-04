@@ -67,7 +67,4 @@ Your final score: 8 out of 10
 - Written using only standard Java libraries
 - Works in any Java 8+ environment
 
-## 📤 Submission
 
-Upload this code and README to GitHub and submit the repo link using the form:
-[Submission Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
